@@ -1,3 +1,5 @@
 # Description of your program (part 7)
+declare a constant and set to zero. use a line scanner to scan through the text that you want to count. Ask the scanner to scan text one word at a time by telling it to keeping moving until it encounters a space I.e (" "). Each time the scanner encounters a space it should add 1 to the sum constant that you created at the beginning of the code. Once the counter (scanner) encounters no more characters it should print the total sum of words (the sum constant). 
 
 # Reflection on writing your program (part 8)
+It was a little difficult for me because I haven't thought about these concepts in awhile. It was easier than actually coding the problem however. I hope to gain an understanding of python and computer languages in general. 
